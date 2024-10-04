@@ -1,3 +1,4 @@
 node_modules
 tmp_modules
 package-lock.json
+.idea
